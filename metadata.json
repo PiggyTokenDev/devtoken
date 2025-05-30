@@ -1,0 +1,11 @@
+{
+  "name": "Granny Pig",
+  "symbol": "GPIG",
+  "image": "https://raw.githubusercontent.com/PiggyTokenDev/devtoken/refs/heads/main/tokenPic.png",
+  "description": "Oink",
+  "tags": [],
+  "extensions": {
+    "website": "https://www.peppapig.com/worldwide",
+    "twitter": "https://x.com/peppapig"
+  }
+}
